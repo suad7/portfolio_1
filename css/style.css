@@ -1,0 +1,84 @@
+
+h1{
+ color:black;
+}
+
+body {
+	background:url(https://www.sktthemes.org/wp-content/uploads/2019/08/choose-background.png)
+}
+
+h3{
+ color:grey;
+}
+h2 {
+	color:block;
+}
+
+img{
+	border-radius: 60%;
+	width: 200px;
+	 height: 300px;
+     float: left;
+}
+
+div {
+	display: flex;
+}
+
+div p{
+	width: 55%;
+	height: auto;
+	font-size: 40px;
+	margin-left: 200px;
+
+}
+ 
+
+
+
+nav {
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  min-height:8vh;
+  background-color: rgb(99, 21, 21);
+  font-family: 'Poppins', sans-serif;
+}
+
+  
+.logo { 
+  color:rgb(201, 193, 193)
+}
+ .logo{
+   text-transform:uppercase;
+   letter-spacing:5px ;
+   font-size: 20px;
+   color:white     
+}
+
+.nav-links{
+    display:flex;
+    justify-content: space-around;
+    width:50%;
+}
+.nav-links li{
+  list-style:none;
+}
+
+
+.nav-links a{
+color: white;
+text-decoration:none ;
+letter-spacing: 3px;
+font-weight:bold;
+font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
